@@ -1,0 +1,22 @@
+{
+   "Name": "Adachi",
+   "DialogueDictionary":
+   {
+      "Conversation 1": {
+         "Portrait": "Adachi_Normal",
+         "Dialogue":
+         [
+         "This is line 1",
+         "This is line 2"
+         ]
+      },
+      "Conversation 2": {
+         "Portrait": "Adachi_Worried",
+         "Dialogue":
+         [
+         "Hello World",
+         "Hello World Again"
+         ]
+      }
+   }
+}  

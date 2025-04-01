@@ -1,0 +1,22 @@
+{
+   "Name": "Arcueid",
+   "DialogueDictionary":
+   {
+      "Normal Conversation": {
+         "Portrait": "Arcueid",
+         "Dialogue":
+         [
+         "\"MELTY BLOOD\" is a series of 2D fighting games based on TYPE-MOON's visual romance novel \"Tsukihime.\"",
+         "Since the game's original release on PC in 2002, it has also had a number of ports for arcade, PlayStation®2, and Steam.",
+         "Now, at long last, the \"MELTY BLOOD\" series is making its way to PlayStation®4, Nintendo Switch™, Xbox One, and Steam on September 30, 2021 in the form of \"MELTY BLOOD: TYPE LUMINA\"."
+         ]
+      },
+      "Neco Conversation": {
+         "Portrait": "NecoArc",
+         "Dialogue":
+         [
+         "Cat of humanity, manifests!"
+         ]
+      }
+   }
+}  

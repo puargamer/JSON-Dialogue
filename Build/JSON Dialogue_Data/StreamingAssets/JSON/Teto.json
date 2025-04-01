@@ -1,0 +1,25 @@
+{
+   "Name": "Kasane Teto",
+   "DialogueDictionary":
+   {
+      "Conversation 1": {
+         "Portrait": "teto",
+         "Dialogue":
+         [
+         "Hey it's me Teto",
+         "Can you lock in",
+         "Please????"
+         ]
+      },
+      "Conversation 2": {
+         "Portrait": "teto",
+         "Dialogue":
+         [
+         "Bread",
+         "BreadBread",
+         "BreadBreadBread",
+         "BreadBreadBreadBread"
+         ]
+      }
+   }
+}  
